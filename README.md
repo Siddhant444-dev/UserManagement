@@ -1,4 +1,4 @@
 # UserManagement
 
 APIs in Postman
-![Music Player UI](images/music-player.png)
+![APIs](Screenshot 2025-04-03 094803.png)
