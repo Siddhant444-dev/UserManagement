@@ -26,3 +26,6 @@ _To retrieve all users from the database. Useful for admin._
 
 🔹 **Update User's Password:**  
 _A user can update their password if needed._
+
+  **Allow for security login:**
+_A user can login using their email and password and security will be implemented using JWT and OAuth._
