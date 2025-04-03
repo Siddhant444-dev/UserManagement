@@ -1,4 +1,5 @@
 # UserManagement
 
 APIs in Postman
-![APIs](UserManagement/Screenshot 2025-04-03 094803.png)
+![APIs](UserManagement/Screenshot%202025-04-03%20094803.png)
+
